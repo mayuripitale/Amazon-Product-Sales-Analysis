@@ -9,7 +9,8 @@ The dashboard helps identify **top-performing products, category-wise sales cont
 
 ## Dashboard Preview
 
-![Amazon Sales Dashboard](Amazon Product Sales.png)
+![Amazon Sales Dashboard](amazon_product_sales_dashboard.png)
+
 ---
 
 ## **Key Metrics**
